@@ -3,3 +3,5 @@ str(iris)
 summary(iris)
 
 # This is a line from RStudio
+
+plot(iris$'Sepal.Length',iris$'Sepal.Width')
